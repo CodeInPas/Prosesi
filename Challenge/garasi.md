@@ -163,4 +163,3 @@ Klarifikasi boleh kapan saja selama masa penawaran.
 
 ---
 
-Silakan — saya tunggu penawaran Anda. Tunjukkan bagaimana Anda akan membangun **GARASI** ini.
