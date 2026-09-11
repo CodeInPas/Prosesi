@@ -1,4 +1,3 @@
-# DOKUMEN PENAWARAN (BID) — PENGEMBANGAN APLIKASI DESKTOP
 
 **Judul Proyek:** GARASI — Aplikasi Manajemen Bengkel & Toko Sparepart
 **Klien:** Pemilik "Bengkel Kawan" (1 lokasi aktif, cabang ke-2 dalam rencana 1 tahun ke depan)
