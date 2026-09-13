@@ -1,5 +1,6 @@
+# Daftar Ide
 
-| nama_game | konsep | mekanisme |
+| Nama Game | Konsep | Mekanisme |
 | --- | --- | --- |
 | **Data Rescue: Cyber Labyrinth** | Program antivirus kecil mengumpulkan kepingan data terkorupsi di papan sirkuit. | Menghindari *bug* atau *firewall* musuh, mengumpulkan kunci digital, dan membuka pintu keamanan warna-warni sebelum waktu habis. |
 | **Alchemist's Grid** | Alkemis melintasi ubin-ubin elemen untuk mencapai portal keluar. | Memanfaatkan interaksi ubin elemen (es mencair oleh api, air memadamkan rintangan, dan tanah membuat jembatan sementara). |
