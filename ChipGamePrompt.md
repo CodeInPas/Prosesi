@@ -22,7 +22,7 @@ Bertindaklah sebagai Senior Game Designer dan Software Architect spesialis game 
 # TUJUAN
 Saya butuh Game Design Document (GDD) teknis dan naratif yang mendeskripsikan secara menyeluruh gameplay loop, interaksi mekanik, dan rancangan logika sistem untuk game berikut:
 
-* Nama/Tema Game: [Isi nama atau konsep yang dipilih, contoh: "Data Rescue: Cyber Labyrinth"]
+* Nama/Tema Game: [**Isi nama atau konsep yang dipilih, contoh: "Data Rescue: Cyber Labyrinth"**]
 * Genre: Tile-based Grid Puzzle Game
 * Target Framework/Platform: Lazarus FPC (Render grafis berbasis 2D Grid / TCanvas / BGRAControls)
 
