@@ -149,3 +149,18 @@
 | 147 | Client-Server (mORMot) | Server Dispatcher Manajemen Armada (Fleet Management) dan Logistik |
 | 148 | Client-Server (mORMot) | Server Manajemen Otentikasi Terpusat dan Otorisasi Berbasis Token/Sesi |
 | 149 | Client-Server (mORMot) | Daemon Replikasi Database, Sinkronisasi Edge-to-Cloud, dan Backup Data Terpusat |
+
+```
+## Template Prompt
+
+Saya mengikut perkembangan penawaran lelang proyek di freelancer , saya melihat banyak klien dengan permintaan pembuatan aplikasi yang unik, tidak terduga dan memerlukan inovasi dan cara berfikir yang lebih keras 
+
+Saya adalah pengembang software yang sebagian besar dalam segmen aplikasi desktop native dengan tool Lazarus fpc. 
+
+Saya ingin berlatih membuat software-software yang mungkin akan muncul sebagai lelang . Meski selama ini saya belum pernah memenangkan bid. Saya tidak ada masalah karena sebenarnya saya juga bisa membuat aplikasi aplikasi yang selama ini ditawarkan. Dan saya selalu merasa punya tantangan mewujudkan aplikasi ini dalam bidang yang saya kuasai 
+
+
+Berikan saya 1 contoh simulasi biding pembuatan aplikasi desktop dalam kategori nieche [ nama nieche ]
+
+tetapi masih bisa dibuat dengan kekuatan khas Lazarus fpc dengan pustaka standar dan pustaka pustaka pihak 3 nya.
+```
